@@ -2,7 +2,7 @@
 
 A Java app which is used to retrieve data about deeds of the universities of Greece to define whether they contain private data or not and show them in a chart, for a specific period of time.
 
-## Some examples of the site' s functionality
+## Some examples of the app' s functionality
 ![Diavgeia-retrieval-review](https://github.com/Apostolos172/diavgeia-retrieval/blob/master/screenshots/Animation.gif?raw=true)
 
 ### An example of retrieved data
